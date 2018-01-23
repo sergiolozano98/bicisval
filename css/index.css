@@ -1,0 +1,51 @@
+body{
+  background-image: url("http://biketheplanetmemphis.com/wp-content/uploads/2014/12/bike-background1.jpg");
+  background-repeat: round;
+}
+#logo{
+  height: 276px;
+  width: 400px;
+  padding-left: 35%;
+  padding-bottom: 20px;
+}
+article{
+  height: 150px;
+  width: 550px;
+  padding-left: 28%;
+  text-align:center;
+  color: white;
+}
+footer{
+  position: static;
+  background-color: #292929;
+  color: #fff;
+  height: 80px;
+}
+footer img{
+  width: 40px;
+  height:40px;
+  float: right;
+  padding-left: 10px;
+}
+
+nav{
+  height: 80px;
+  margin: 30px;
+  padding-left: 33%;
+}
+nav a{
+  color: black;
+  font: 25px Helvetica, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+nav a:hover{
+  color: white;
+  font: 25px Helvetica, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+
+
+#idiomas{
+  position: absolute;
+  margin-bottom: 60px;
+}
